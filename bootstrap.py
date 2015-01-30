@@ -13,7 +13,7 @@ Warning : this file isn't buildout bootstrap.py
 
 sys.argv = ['bootstrap.py', '.']
 exec(
-    urlopen('https://raw.github.com/pypa/virtualenv/develop/virtualenv.py').read()
+    "urlopen('https://raw.github.com/pypa/virtualenv/develop/virtualenv.py').read()"
 )
 
 print("""
