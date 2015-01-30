@@ -1,58 +1,57 @@
 ===========
-Définitions
+Definitions
 ===========
 
-On ne peut valablement étudier l'économie sans faire appel à un repère et une
-mesure de référence des échanges, de la même façon qu'en toute science, le
-repère considéré et les unités de mesure se doivent d'être définis avant toute
-étude.
+It's not possible to perform a valid economic study without using a
+referential and a reference metric of exchanges, and as in any
+science, the referential under consideration and the measure units
+must be defined before any study.
 
-Tout comme un repère et des unités de temps et de longueur sont nécessaires à
-l'établissement des lois physiques, aucune étude poussée ne peut être menée sans
-que ne soient définis auparavant le repère de référence de l'économie et l'unité
+Like a referential and time and length units are needed to establish
+physics laws, no advanced economic study may be performed without first
+defining the referential and the associated measure unit.
 de mesure associée.
 
-Repère : la zone monétaire
-==========================
+referential: the currency area
+==============================
 
-Une zone économique ou zone monétaire constitue le repère de base de l'étude
-économique. Qu'est-ce qui la caractérise ?
+An economic area, or currency area, constitutes the basic referential
+of the economic study.  How is it characterised?
 
-* L'espace où l'accord monétaire est manifeste 
-* Le temps, c'est-à-dire, l'espérance de vie moyenne des individus qui y 
-  vivent et y meurent.  
-* La production individuelle ou collective (entreprenariale) de biens et de
-  services.
-* L'échange de biens et de services entre individus ou groupements
-  d'individus.
+* The space is where the currency agreement is expressed,
+* The time, is the average lifespan of the individuals who live and
+  die in it.
+* The individual or collective (enterprises) production of goods and services.
+* The exchange of goods and services between individuals or groups of individuals.
 
-Les individus ou groupements d'individus sont inévitablement amenés à échanger,
-ne serait-ce que de l'information, de l'éducation, ou plus généralement encore
-du lien. Ce qui caractérise donc fondamentalement la zone économique c'est
-l'ensemble des individus qui la composent. L'économie existe partout et en tout
-temps dès que des individus produisent et échangent des biens et des services,
-et cela quelle que soit la nature de ces biens et services. Par contre, on ne
-peut pas définir de zone économique vide d'individus. C'est donc bien l'individu
-qui constitue la seule valeur commune et fondamentale de tout repère économique
-valide.
+The individuals or groups of individuals are necessarily led to
+exchange, if only information, education or more generally,  any
+connection.  What charaterizes fundamentally the economic area, it's
+the set of individuals who are included in it.  The economy exists
+everywhere and any time some individuals produce and exchange goods
+and services, and this, whatever the nature of those goods and
+services.  On the other hand, it's not possible to define an economic
+area void of individuals.  Therefore, it's the individuals who are the
+only common and fundamental value of any valid economic referential.
 
-Mais pour aller plus loin, cet ensemble d'individus évolue dans le temps avec
-les naissances et les morts, l'immigration et l'émigration. La zone économique
-peut donc se représenter comme un espace temps discret en constante
-création/destruction où chaque point temporaire représente un individu à durée
-de vie limitée.
+Furthermore, this set of individuals evolves in time, with births and
+deaths, immigration and emmigration.  The economic area can be
+represented as a discrete space-time, being constantly created and
+destructed, where each temporary point represents an individual with a
+limited lifespan.
 
-Il s'agit donc d'une trame spatio-temporelle en transformation continue, non
-statique, discrète, où chaque point d'espace-temps est créé à une date
-déterminée (naissance d'un individu) et a une durée de vie limitée qui, en
-moyenne, correspond à l'espérance de vie que l'on nommera « ev » de la zone
-économique considérée.
+It's a spatio-temporal welf constantly evolving, not static, discrete,
+where each time-space point is created at a determined time (birth of
+an individual) and has a limited lifespan which, on average,
+corresponds to the life expectancy, named "ev", ina the economic area
+under consideration.
 
-Par ailleurs et c'est la définition fondamentale de la Relativité en économie,
-tout individu a une vision personnelle et unique de la valeur de toute chose et
-aucun des individus ou groupement d'individus d'une zone économique donnée n'est
-en mesure d'imposer aux autres une vision particulière de ce qui est de la
-valeur ou ce qui n'en est pas.
+
+On the other hand, and this is the fundamental definition of
+relativity in economy, each individual has a personal and unique view
+on the value of all things and no individual or group of individual of
+a given economic area may impose to others a specific view of what is
+or is not of value.
 
 
 Zone économique pseudo-isolée
