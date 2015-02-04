@@ -12,7 +12,7 @@ physics laws, no advanced economic study may be performed without first
 defining the referential and the associated measure unit.
 de mesure associée.
 
-referential: the currency area
+Referential: the currency area
 ==============================
 
 An economic area, or currency area, constitutes the basic referential
@@ -54,70 +54,69 @@ a given economic area may impose to others a specific view of what is
 or is not of value.
 
 
-Zone économique pseudo-isolée
+Pseudo-isolated economic area
 =============================
 
-Une zone économique est dite pseudo-isolée quand, pour une durée de temps
-donnée, on peut considérer qu'elle vit de façon autonome ou quasi-autonome vis à
-vis de l'extérieur. Ce peut-être le cas d'économies sur des îles encore
-autonomes, où la subsistance des individus est assurée par une production
-alimentaire suffisante (ce qui est là aussi tout à fait relatif,  on peut par
-exemple étudier le cas de certains ascètes), mais aussi le cas d'un groupement
-d'individus topologiquement complexe, répartis dans un espace non connexe,
-transnational, voire transcontinental. Du moment que cet ensemble manifeste une
-autonomie, on peut le considérer comme une zone économique pseudo-isolée,
-capable d'auto-gérer son flux de production et d'échanges, au moins sur une
-petite période de temps.
+An economic area is said pseudo-isolated when, for a given duration,
+we may consider it's working in an autonomous or quasi-autonomous way
+relatively to the exterior..  This may be the case of economies on
+islands still autonomous, where the subsistance of indivudals is
+ensured by a sufficient food production (this is also relative, we may
+for example see the case of some ascetics), but this is also the case
+of a topologically complex group of individuals, spread over a non
+connected space, transnational or transcontinental.  As long as this
+group exhibit some level of autonomy, we may consider it as a
+pseudo-isolated economic area, able to self-manage its own flow of
+production and exchanges, at least for a small period of time.
 
 
-Mesure de valeur : Les échanges monétisés
+Measure of value: the monetary exchanges
 =========================================
 
-Quand il y a échange de biens et/ou de services, on parle d'échanges de valeurs.
-X échange avec Y une valeur Vx = Vy = Px Cx = Py Cy, où « Px » représente le
-prix dans l'unité de mesure commune (appelée la monnaie commune) de la
-production de X « Cx ».
+When there is exchange of goods and/or services, we talk of exchange
+of values.  X exchanges with Y a value Vx = Vy = Px⋅Cx = Py⋅Cy, where
+"Px" represents the price in a common unit (called the common
+currency) of X's production "Cx".
 
-Cette définition de la valeur est parfaitement relative à l'observateur qui la
-mesure, ainsi si X considère que Vx=Vy, il se peut que Y considère que Vy >> Vx,
-et ne s'en porte pas moins bien. Par ailleurs Z qui observerait cet échange
-pourrait tout à fait juger selon son propre référentiel que Vx et Vy n'ont pas
-de valeur.
+This definition fo value is perfectly relative to the observer who
+measures it. So while X considers that Vx=Vy, it is possible that Y
+considers that Vy≫Vx, so good for him.  Otherwise, Z who would observ
+this exchange could very well judge according to his own referential
+that Vx and Vy have no value.
 
-Rappelons ici combien les Hommes ne sont fondamentalement pas d'accord tout le
-long de leur histoire sur la valeur respective de leurs biens. Aussi l'égalité
-des valeurs échangées n'est pas un critère économique indépendant de
-l'observateur, ce qui se constate aussi par les actions de dons ou de taxations
-sans retours, et donc non symétriques, où l'égalité des valeurs échangées n'est
-pas respectée en fonction du point de vue.
+Let's remind here how human beings fundamentally don't agree, all along
+their history, on the value of their goods.  Therefore the equality of
+exchanged values is not an economic criteria independent of the
+observer, which can be seen from the acts of gift or taxation without
+return, thus asymetric, where the equality of the exchanged values is
+not respected, depending on the point of view.
 
-C'est pour des besoins d'universalité de la mesure de valeur, que les individus
-s'accordent sur une mesure commune d'échange qu'ils appellent monnaie. Une
-monnaie définie donne ainsi une mesure commune de valeur à toute chose dans la
-même unité, pour un repère d'observation donné, ce qui permet des comparaisons
-plus aisées.
+To have a universal measure of value, individuals agree on a common
+measure of exchange called currency.  A currency thus defined is a
+common measure of value for everything in the same unit, for a give
+observation referential, which allows to make comparisons more easily.
 
-La monnaie joue donc le rôle non seulement d'outil d'échange entre individus de
-la zone économique, mais aussi de seule valeur indépendante du référentiel
-d'observation.
+The currency plays the role of exchange means between individuals of
+the same economic area, but also of only value independent from the
+observation referential.
 
-Ceci étant posé, il existe historiquement et localement, un grand nombre de
-définitions différentes de la monnaie, qui impliquent des types d'échanges
-fondamentalement différents, et qui sont le plus souvent ignorées par ceux qui
-acceptent de l'utiliser.
+That said, there are historically and locally, many different
+definitions of money, that involve fundamentally different types of
+exchanges, and which are usually ignored by those who agree to use it.
 
-Ces cas d'ignorance de la nature de la monnaie utilisée le plus souvent de façon
-contrainte, constituent une violation du droit contractuel de base en économie,
-qui suppose l'acceptation des parties impliquées quant au type d'échange
-proposé.
+These cases  of ignorance of  the nature  of the currency  used, often
+under  coercion, constitutes  a  violation of  basic  contract law  in
+economics, which implies the acceptance by the involved parties of the
+type of exchanged proposed.
 
-On peut sans hésiter déclarer que l'imposition d'usage d'une monnaie non
-contractuelle (ne faisant pas l'objet d'une acceptation volontaire) constitue un
-acte contraire aux droits de l'Homme de disposer de sa vie pour sa part
-économique et une violation des principes constitutionnels de liberté et
-d'égalité.
+We may declaim without hesitation that imposing the usage of a
+non-contractual currency (which is not subject of a voluntary
+acceptation) is an act contrary to the human rights, of being able to
+dispose of one's life, the economic side, and a violation of the
+consitutional principle of freedom and equality.
 
-Et donc à minima dans une démocratie réelle, la monnaie officielle ne peut être
-réellement acceptable que si elle fait l'objet d'une élaboration démocratique
-dans sa définition, ainsi que dans sa validation, son acceptation sa
-modification et son abandon.
+Therefore, at lesat in a real democracy, the official currency can be
+really accepted, only if it is the result of a democratic elaboration
+in its definition, its validation, its acceptation, its modification
+or its abandonment.
+
