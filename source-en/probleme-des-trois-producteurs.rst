@@ -1,64 +1,66 @@
 ==============================
-Problème des trois producteurs
+Problem of the three producers
 ==============================
 
-La nécessité de définir une monnaie commune étant admise au sein de la
-communauté des individus malgré leurs désaccords fondamentaux quant à ce qu'il
-peuvent juger comme étant de la valeur ou pas, il reste un problème fondamental
-de définition de cette monnaie. Il se réduit à la résolution du problème
-spatio-temporel des trois producteurs que voici :
+The need to define a common currency being admitted within the
+community of individuals, despite their fundamental disagreements
+about their value judgements, there remain the fundamental problem of
+defining this currency.  It is reduced to solving the spatiotemporal
+problem of the three producers, as follow:
 
-* X, Y, et Z, produisent respectivement des valeurs Vx Vy et Vz.  
-* X souhaite obtenir Vy, Y souhaite obtenir Vz, et Z souhaite obtenir Vx.
+* X, Y and Z, produce respectively values Vx, Vy and Vz.  
+* X wants to get Vy, Y wants to get Vz, and Z wants to get Vx.
 
-On le voit immédiatement, les échanges ne peuvent pas se faire bilatéralement,
-mais circulairement. Comme par ailleurs il est tout à fait possible que X
-n'accorde aucune valeur à Vz, Y à Vx, et Z à Vy (principe de relativité), aucun
-des biens ou services produits ne peut servir de mesure commune. C'est bien là
-le point fondamental, qui implique que la monnaie devra être définie sur une
-base indépendante des valeurs produites par chacun.
+We can see immediately, exchanges are not bilateral, but circular.  As
+it is also quite possible that X do not value Vz, Y do not value Vx
+and Z, Vy (principle of relativity), no good or service produced can
+be used as common measure.  This is the fundamental point, which
+implies that currency must be defined on a basis independent  from the
+values produced by each.
 
-Le problème existe aussi dans le temps où, les individus, les productions, les
-services et les besoins évolueront dans leur nature, et seront progressivement
-amenés à disparaître ou à être remplacés. Il n'en devient pas moins nécessaire
-d'avoir, à tout instant, la possibilité d'échanger de façon convenable la
-production des uns et des autres, afin de satisfaire leurs besoins évolutifs
-respectifs.
+The problem also exists in time, where individuals, productions,
+services and goods evolve in nature, and will be gradually brought to
+disappear or be replaced.  It is not less necessary to have, at any
+time, the possibility to exchange appropriately productions of ones
+and others, to meed their evolving respective needs.
 
 .. figure:: images/probleme_des_trois_producteurs.png
    :align: center
    :width: 450px
-   
-   Pour une petite unité de temps « dt » les individus X Y et Z co-existent, 
-   produisent et échangent des valeurs stables.
 
-Donc, non seulement « dans l'espace » (pour un temps d'évolution court « dt ») les
-valeurs ne sont pas communément reconnues par les producteurs et font pourtant
-l'objet d'échanges circulaires, mais « dans le temps » les individus et les
-valeurs produites changent du tout au tout.
+   For a small unit of time "dt", the individuals X, Y and Z co-exist,
+   producing and exchanging their stable values.
 
-Il n'en reste pas moins, que pour un temps suffisamment court, on constate une
-certaine stabilité. Il y a donc une évolution continue des paramètres
-économiques, dont la monnaie que nous voulons définir, qui permet aux
-producteurs présents à tout instant, et au moins pour ce temps court, de
-s'accorder sur la stabilité de leur outil d'échange circulaire.
+So, not only "in space" (for a short evolution time "dt"), the values
+are not commonly recognized by producers and yet, can be exchanged
+circularly, but also "in time", the individuals and the values
+produced change dramatically.
 
-Aussi comme nous le allons le démontrer dans ce qui suit, et pour être cohérent
-avec nos fondements, seule une quantification purement mathématique des
-échanges, indépendante de tout bien ou service de référence est acceptable par
-les acteurs du problème des trois producteurs.
+It remains that for a sufficiently short time, we constat a certain
+stability.  Therefore there is a continuous evolution of the economic
+parameters, including the currency we want to define, which allows at
+any time the present producers to agree on the stability of their tool
+for circular exchanges, at least for this short time.
 
-Ce résultat n'enlève en rien de la valeur à la monnaie, puisque quoique purement
-mathématique, sa quantité totale est limitée à tout instant. Le potentiel
-d'achat qu'elle recèle demeurera donc limité par les prix au delà desquels les
-producteurs ne pourraient pas échanger leurs productions par manque de monnaie.
+
+So as we will demonstrate in the following, and to be consistent with
+our foundation, only a purely mathematical quantification of the
+exchanges, independent of all reference good or service is acceptable
+by the actors of the three producers problem.
+
+This results doesn't diminish the value of the currency, as though
+purely mathematical, its total quantity is limited at any time.  The
+purchasing power it has will remain limited by the prices, beyond
+which the producers could not exchange their products for lack of money.
 
 .. figure:: images/probleme_des_trois_producteurs2.png
    :align: center
    :width: 450px
 
-   Le problème des trois producteurs se complique lorsqu'au bout d'un temps suffisamment long ils sont morts et remplacés
+   The problem of the three producers becomes more complex after a
+   sufficient time, when they die and are replaced.
 
-Le problème est posé, nous allons maintenant balayer les solutions envisagées et
-les soucis qu'elles posent avant d'aborder la solution relativiste proprement
-dite.
+
+The problem is exposed, we will now scan possible solutions and the
+difficulties they pose, before addressing the relativistic solution
+itself.
