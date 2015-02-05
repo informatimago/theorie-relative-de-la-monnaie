@@ -12,15 +12,15 @@ is also a principle of symmetry, or covariance.  The principle does
 not mean that observers measure the same thing, but that the physical
 laws that we must establish, following their transformation from a
 referential to another, have the same general shape.  As the measures
-are very different from an observer to another, the only invariant
-measure being that of the speed light.
+are very different from one observer to another, the only invariant
+measure is that of the speed light.
 
 For economy, I extended this principle to the notion of currency:
 "currency, being a universal code that governs economic exchanges,
 must operate identically in all referentials",  and of value:
 "everyone is free to estimate what is valuable and what is not".
 
-In economy, any couple observator/referential is an individual in his
+In economy, any couple observer/referential is an individual in his
 economic area, and the principles must be valid and of same shape,
 whatever the spatio-temporal position considered.   It is therefore
 also a matter of applying the first article of the human rights
@@ -46,13 +46,13 @@ a) Freedom
 ----------
 
 Freedom is defined as a symetry principle: (non-nuisance) make no harm
-to oneself and to others .
+to oneself and to others.
 
 
 b) Value
 ---------
 
-We call value any economic good, tangible,energetic, immaterial,
+We call value any economic good, tangible, energetic, immaterial,
 spatial or temporal.  For example, you could assign a value to a
 fruit, to electricity, to software, to land or to education.  The
 principle of relativity denies any absolute measure of value.  Any
@@ -93,7 +93,7 @@ Any citizen is free to access resources.
 b) Freedom of production
 ------------------------
 
-Any citize is free to produce value.
+Any citizen is free to produce value.
 
 
 c) Freedom of exchange "in the currency"
@@ -110,11 +110,11 @@ Any citizen is free to exchange with others "in the currency".
   interpreted in terms of non-nuisance, as specified by the Lockean
   proviso:
 
-Once gathered (or 'appropriated'), an item belongs to the person who
-made the effort to gather it, "at least where there is enough, and as
-good, left in common for others"; nature itself remained common
-property.  One owns the apples one picked, but not the apple tree;
-the deer one hunted, but not the forest.
+    Once gathered (or 'appropriated'), an item belongs to the person
+    who made the effort to gather it, "at least where there is enough,
+    and as good, left in common for others"; nature itself remained
+    common property.  One owns the apples one picked, but not the
+    apple tree; the deer one hunted, but not the forest.
 
 For example, nobody has the right to appropriate the unique water
 source in a desert, without giving access to the water to everyone.
@@ -124,7 +124,7 @@ Free code and free monetary system
 =====================================
 
 Free code, as defined in the software world ("free software") consists
-in giving freedoms to the users of software programs, so they may see
+in giving freedoms to the users of software programs [#]_, so they may see
 the source code of the software, and are able to modify it.  This
 principle of "freedom of code" is fundamentally compatible with the
 principle of relativity, because if the laws are independent of the
@@ -149,10 +149,11 @@ revealed by Olivier Auber, the choice of a system implies the choice
 of a code which governs it, and it is not neutral.  We must ask the
 question of the transparency and the legitimacy of this code.
 
+.. [#] What is free software https://www.gnu.org/philosophy/free-sw.html
 .. [#] Perspective numérique http://perspective-numerique.net/
 
 This implies that the code freedom which governs a system (here the
-currency, code of alle conomic exchanges), is a pre-concept choice,
+currency, code of all economic exchanges), is a pre-concept choice,
 otherwise there would simply not be any choice, and therefore no
 freedom.  According to this criterion defended by the inventor of free
 software, Richard Stallman, if you use a system whose code is not
@@ -164,7 +165,7 @@ emergence of an economy whose value field is a pyramidal topological
 structure, auto-reproductive and unstable.  On the contrary, the
 consequence of using a free monetary system is the emergence of an
 economy whose value field is an expanding spherical structure in the
-space-time, compatible with the generation replacement.
+space-time, compatible with generation replacement.
 
 However, the software freedoms as defined by the Free Software
 Foundation (FSF), which are four in number, must be distinguished from
@@ -195,11 +196,11 @@ currency system, at least in the sense of the first freedom, and even
 more of the fourth freedom as we'll see later.
 
 Another example: gold.  We may say that gold, as a candidate currency,
-doesn't respect at least the third economic freedom, of exchange "in
-the currency", for the simple reason ­ which we'll develop later ­
+doesn't respect at least the fourth economic freedom, of exchange "in
+the currency", for the simple reason - which we'll develop later -
 that it is not universally accessible within an economic area.  Such a
 "currency" which imposes to revert to barter where it's not present,
-cannot have this characterstic of freedom of exchange "in the currency".
+cannot have this characteristic of freedom of exchange "in the currency".
 
 That's why the CRT distinguishes between a specific value and the
 currency "universal measure and mean of exchange" within the economic
@@ -207,11 +208,11 @@ area.
 
 It's somewhat like the role played by the speed of light in relativist
 physics.  Light is not a physical object like the others.  Its speed,
-given of space/time (a distance divided by a time) is the same in all
-the referencials.  And because observers agree on this point, they
-deduct the relativity of the other measures to establish a relativist
+given by space/time (a distance divided by a time) is the same in all
+the referentials.  And because observers agree on this point, they
+deduce the relativity of the other measures to establish a relativist
 theory compatible between themselves, giving different measures
-depending on the referencial, but having "the same shape".
+depending on the referential, but having "the same shape".
 
 
 Summary

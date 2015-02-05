@@ -10,7 +10,7 @@ Sommaire
    introduction-de-la-version-1.0.rst
    conseils-de-lecture-version-2.718.rst
    definitions.rst
-   formalisaton.rst
+   formalisation.rst
    probleme-des-trois-producteurs.rst
    probleme-de-la-valeur-de-reference.rst
    probleme-de-la-monnaie-dette.rst

@@ -7,25 +7,25 @@ referential and a reference metric of exchanges, and as in any
 science, the referential under consideration and the measure units
 must be defined before any study.
 
-Like a referential and time and length units are needed to establish
+As a referential and time and length units are needed to establish
 physics laws, no advanced economic study may be performed without first
 defining the referential and the associated measure unit.
-de mesure associée.
+
 
 Referential: the currency area
 ==============================
 
 An economic area, or currency area, constitutes the basic referential
-of the economic study.  How is it characterised?
+of the economic study.  How is it characterized?
 
-* The space is where the currency agreement is expressed,
+* The space is where the currency agreement is expressed.
 * The time, is the average lifespan of the individuals who live and
   die in it.
 * The individual or collective (enterprises) production of goods and services.
 * The exchange of goods and services between individuals or groups of individuals.
 
 The individuals or groups of individuals are necessarily led to
-exchange, if only information, education or more generally,  any
+exchange, if only information, education or more generally, any
 connection.  What charaterizes fundamentally the economic area, it's
 the set of individuals who are included in it.  The economy exists
 everywhere and any time some individuals produce and exchange goods
@@ -40,10 +40,10 @@ represented as a discrete space-time, being constantly created and
 destructed, where each temporary point represents an individual with a
 limited lifespan.
 
-It's a spatio-temporal welf constantly evolving, not static, discrete,
-where each time-space point is created at a determined time (birth of
+It's a discrete spatio-temporal frame constantly evolving, not static,
+where each space-time point is created at a determined time (birth of
 an individual) and has a limited lifespan which, on average,
-corresponds to the life expectancy, named "ev", ina the economic area
+corresponds to the life expectancy, named "ev", in the economic area
 under consideration.
 
 
@@ -59,10 +59,10 @@ Pseudo-isolated economic area
 
 An economic area is said pseudo-isolated when, for a given duration,
 we may consider it's working in an autonomous or quasi-autonomous way
-relatively to the exterior..  This may be the case of economies on
-islands still autonomous, where the subsistance of indivudals is
+relatively to the exterior.  This may be the case of economies on
+islands still autonomous, where the subsistance of individuals is
 ensured by a sufficient food production (this is also relative, we may
-for example see the case of some ascetics), but this is also the case
+see the case of some ascetics, for example), but this is also the case
 of a topologically complex group of individuals, spread over a non
 connected space, transnational or transcontinental.  As long as this
 group exhibit some level of autonomy, we may consider it as a
@@ -74,17 +74,17 @@ Measure of value: the monetary exchanges
 =========================================
 
 When there is exchange of goods and/or services, we talk of exchange
-of values.  X exchanges with Y a value Vx = Vy = Px⋅Cx = Py⋅Cy, where
+of values.  X exchanges with Y a value Vx = Vy = Px*Cx = Py*Cy, where
 "Px" represents the price in a common unit (called the common
 currency) of X's production "Cx".
 
-This definition fo value is perfectly relative to the observer who
+This definition of value is perfectly relative to the observer who
 measures it. So while X considers that Vx=Vy, it is possible that Y
-considers that Vy≫Vx, so good for him.  Otherwise, Z who would observ
+considers that Vy>>Vx, so good for him.  Otherwise, Z who would observe
 this exchange could very well judge according to his own referential
 that Vx and Vy have no value.
 
-Let's remind here how human beings fundamentally don't agree, all along
+Let's remind here how human beings fundamentally don't agree, along
 their history, on the value of their goods.  Therefore the equality of
 exchanged values is not an economic criteria independent of the
 observer, which can be seen from the acts of gift or taxation without
@@ -113,10 +113,10 @@ We may declaim without hesitation that imposing the usage of a
 non-contractual currency (which is not subject of a voluntary
 acceptation) is an act contrary to the human rights, of being able to
 dispose of one's life, the economic side, and a violation of the
-consitutional principle of freedom and equality.
+constitutional principle of freedom and equality.
 
-Therefore, at lesat in a real democracy, the official currency can be
-really accepted, only if it is the result of a democratic elaboration
-in its definition, its validation, its acceptation, its modification
-or its abandonment.
+Therefore, at least in a real democracy, the official currency can
+really be accepted only if it is the result of a democratic
+elaboration in its definition, its validation, its acceptation, its
+modification or its abandonment.
 
