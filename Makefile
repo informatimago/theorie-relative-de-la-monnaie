@@ -20,7 +20,8 @@ I18NSPHINXOPTS   = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
-	@echo "  html          to make standalone HTML files"
+	@echo "  html          to make standalone HTML files (French)"
+	@echo "  html-en       to make standalone HTML files (English)"
 	@echo "  dirhtml       to make HTML files named index.html in directories"
 	@echo "  singlehtml    to make a single large HTML file (French)"
 	@echo "  singlehtml-en to make a single large HTML file (English)"
@@ -50,6 +51,12 @@ html:
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 	if [ -f build/latex/TheorieRelative.pdf ];then cp build/latex/TheorieRelative.pdf build/html/; fi
+
+html-en:
+	$(SPHINXBUILD) -vv -b html $(ALLSPHINXOPTS_EN) $(BUILDDIR)/html-en
+	@echo
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html-en."
+	if [ -f build/latex-en/TheorieRelative.pdf ];then cp build/latex-en/TheorieRelative.pdf build/html-en/; fi
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
@@ -114,6 +121,14 @@ latex:
 	      "(use \`make latexpdf' here to do that automatically)."
 	@if [ -f /tmp/foo.txt ];then cp build/latex/TheorieRelative.pdf build/html/; fi
 
+latex-en:
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex-en
+	@echo
+	@echo "Build finished; the LaTeX files are in $(BUILDDIR)/latex-en."
+	@echo "Run \`make' in that directory to run these through (pdf)latex-en" \
+	      "(use \`make latexpdf-en' here to do that automatically)."
+	@if [ -f /tmp/foo.txt ];then cp build/latex-en/RelativeTheory.pdf build/html-en/; fi
+
 latexpdf:
 	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
 	@echo "Running LaTeX files through pdflatex..."
@@ -123,12 +138,12 @@ latexpdf:
 	@cp build/latex/TheorieRelative.pdf build/html/
 
 latexpdf-en:
-	$(SPHINXBUILD) -b latex-en $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex-en
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS_EN) $(BUILDDIR)/latex-en
 	@echo "Running LaTeX files through pdflatex..."
 	$(MAKE) -C $(BUILDDIR)/latex-en all-pdf
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex-en."
 	@mkdir -p build/html-en
-	@cp build/latex-en/TheorieRelative.pdf build/html-en/
+	@cp build/latex-en/RelativeTheory.pdf build/html-en/
 
 text:
 	$(SPHINXBUILD) -b text $(ALLSPHINXOPTS) $(BUILDDIR)/text
