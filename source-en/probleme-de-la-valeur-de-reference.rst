@@ -1,86 +1,91 @@
 ==================================
-Problème de la valeur de référence
+Problem of the reference value
 ==================================
 
-La valeur de référence est un ancien problème économique à la base de crises
-importantes, dues pour l'essentiel à l'incompréhension du problème des trois
-producteurs.  La valeur de référence constituait à imposer aux acteurs une
-monnaie dont la production était contrôlée par les producteurs d'un bien
-déterminé, par exemple les métaux rares, ce qui leur conférait un avantage
-évidemment considérable quant à l'information sur la quantité de monnaie
-disponible dans le futur, ainsi que sur le contrôle de la masse monétaire, au
-détriment des autres acteurs qui ne possédaient pas cette information, et
-subissaient alors la rareté ou le surplus arbitraire de ce type de monnaie pour
-leurs échanges économiques.
+The reference value is an old problem, underlying significant economic
+crisis, due maily to the lack of understanding of the problem of the
+three producers.  The reference value was to impose to the actors a
+specific currency whose production was controlled by the producers of
+a specific good, for example rare metals, which gave them an advantage
+obviously significant on the information about the quantity of money
+available in the future, as well as on the control of this money
+supply, to the expense of the other actors who didn't have this
+information, and suffered arbitrary scarcity or surplus of this type
+of currency for their economic exchanges.
 
-Si par ailleurs et c'est bien majoritairement le cas, cette valeur de référence
-n'est d'aucune utilité dans une zone économique pseudo-isolée, elle n'a d'autre
-rôle fondamental que de quantifier les échanges, ce qui est très avantageusement
-remplacé par une mesure purement mathématique.
 
-Certains tenants de la valeur de référence objectent qu'au moins avec cette
-valeur il est difficile de tricher quant à la création monétaire, puisqu'il faut
-apporter la valeur matérielle. Ceci est faux car l'histoire a montré que bien
-que gagée sur une valeur de référence, la monnaie n'en a pas moins subi des
-poussées inflationnistes ou déflationnistes et provoqué des faillites et des
-crises économiques par non respect de cette « preuve » matérielle. Ce n'est donc
-pas une question de gage, mais des problèmes de transparence, de confiance,
-autant que d'éthique et de respect de l'équité, qui font le fondement de la
-confiance dans la monnaie commune.
+If, however, and it is mostly the case, the reference value is of no
+use in a pseudo-isolated economic area, then it has no other
+fundamental role than quantify exchanges, si it can be very
+advantageously replaced by a purely mathematical measure.
 
-Par ailleurs, la valeur de référence n'est pas productible partout dans l'espace
-et encore moins dans le temps en fonction de sa rareté et de son épuisement, ce
-qui implique des périodes d'afflux et de raretés monétaires, un phénomène qui ne
-remplit pas les conditions de symétrie temporelle de la création monétaire quant
-aux générations futures. La génération qui décide d'adopter une monnaie de cette
-nature, le fait au détriment des générations suivantes, qui se verront imposer
-une monnaie devenue rare et possédée essentiellement par les premiers entrants
-ou leurs héritiers directs. C'est un facteur qui bafoue la liberté des Hommes
-futurs profondément en bloquant leurs possibilités d'accéder aux ressources de
-produire et d'échanger « dans la monnaie ».
 
-Il existe quantité de preuves directes que les valeurs économiques ne sont pas
-jugées pareillement entre générations successives.
+Some proponents of the reference value object that at least with this
+value, it is difficult to cheat on money creation, since it is
+necessary to bring this material good.  This is false, for history has
+shown that while collateralized on a reference value, the money has
+nonetheless suffered inflationary or deflationary surges and caused
+bankruptcies and economic crises, in breach of ths material "proof".
+This is not a question of collateralization, but problems of
+transparency, trust, as well as ethics and respect of equity, which
+are the foundation of the confidence in the common currency.
 
-Prenons un exemple précis : en 2010 l'informatique et les réseaux de
-télécommunication ont pris une part de la valeur globalement échangée dans
-l'économie sans commune mesure avec ce qui existait dans les années 1980. Pour
-autant ce serait une erreur de penser qu'il faudrait aujourd'hui créer
-arbitrairement plus de monnaie gagée sur cette valeur, alors que la valeur qui
-dominera en 2030 sera peut-être encore plus fondamentalement différente d'après
-le jugement de la génération alors présente à ce moment là. Ce serait tout
-simplement prendre des décisions à leur place, alors qu'ils sont déjà pour
-l'essentiel parmi nous et manifestent déjà leur volonté de transformer
-l'économie selon leur propre point de vue.
+Furthermore, the reference value is not producible throughout space
+and even less throughout time, depending on its rarity and its
+exhaustion, which implies periods of inflows and cash rarities, a
+phenomenon that doesn't fulfill the temporal symetry conditions of
+currency creation for the future generations.  The generation who
+decides to adopt a currency of this nature does so at the expense of
+future generations, which will be imposed a now rare currency, and
+owned primarily by early entrants or their direct heirs.  This is a
+factor that violates deeply the freedom of future human beings, by
+blocking their ability to access  resources, products, and to exchange
+"in the currency".
 
-Autre exemple pris sur le passé : quand on voit la valeur relative de l'or, on
-constate sans aucune ambiguïté possible que, pour la génération des années 1980,
-il ne faisait pas de doute que ce métal était une valeur importante. Pourtant en
-2010, et bien qu'en valeur faciale l'or ait battu ses records historiques
-rapporté à la totalité de la monnaie en circulation, il pèse bien moins dans
-l'économie quoique restant une valeur toujours échangée.
+There are plenty of direct evidence that economic values are not
+judged equally between successive generations.
 
-Cela ne signifie pas que cette valeur spécifique ne puisse pas évoluer de
-nouveau vers de tels sommets relatifs, mais bien qu'elle évolue de façon
-décorrélée de l'émission monétaire fiduciaire qui en est donc indépendante au
-moins en partie. Il n'est donc besoin d'aucune valeur spécifique pour créer une
-monnaie à part la seule qui soit fondamentale et universellement présente dans
-l'espace et dans le temps au sein de toute zone économique : l'être humain.
+Let's take a precise example: in 2010, information technologies and
+telecommunicaiton networks took a share of the economic value
+exchanged globally incommensurate with the economy that existed in the
+1980s.  However, it would be an error to think that we should now
+create arbitrarily more money pledged on this value, when the value
+that will dominate in 2030 will be perhaps even more fundamentaly
+different, according to the judgement of the generation present then.
+It would be merely taking decisions for them, when they are already most
+of them among us, and already express their will to transform the
+economy according to their own terms.
 
-Mieux : la définition d'une valeur de référence comme monnaie forcée est un
-biais fondamental qui nie la relativité de toute valeur que tout individu est en
-droit de juger indépendamment de ses concitoyens.
+Another example taken from the past:  when we look at the relative value
+of gold, we constat without any ambiguity that for the generation of
+the 1980s,  gold was an important value.  Yet in 2010, and although in
+face value gold has beaten its historical records, reported to the
+totality of the currency in circulation, it weighs much less in the
+economy alghough it is still an exchanged value.
 
-Aussi il n'est pas étonnant du point de vue de la théorie relative de la monnaie
-qu'en 1971 l'étalon-or ait été abandonné au profit d'une monnaie totalement
-dématérialisée, dont la croissance globale est contrôlée par une Banque Centrale
-et par un ensemble de règles restreignant la capacité des Banques privées à
-émettre des crédits.
+This doesn't mean that this specific value cannot move back again toward
+such relative heights, but that it evolves uncorrelated to the
+fiduciary currency issue, that is independent from it at least
+partially.  There is therefore no need for any specific value to
+create currency, except the only one which is fundamental and
+univeraslly present in space and in time within the economic area: the
+human being.
 
-Toutefois, le système de « l'argent-dette » bien qu'étant un pas en avant par
-rapport à un système à valeur de référence, reste biaisé par l'octroi de crédits
-centralisés sur des volumes et des valeurs arbitraires au détriment d'une large
-part de la population présente et à venir.
+Even better: the definition of a reference value as forced currency is
+a fundmantal bias that denies the relativity of all valeus that every
+individual has the right to judge independently from his co-citizen.
+
+
+Therefore it's not surprizing, from the point of view of the currency
+relative theory, that in 1971 the golden standard was abandoned in
+favor of a completely unmaterial currency, whose global growth is
+controlled by a central bank, and by a set of rules restricting the
+ability of private banks to issue credits.
+
+However, the system of "debt-money", while being a step forward
+compared to the system of reference value, remains biased by granting
+centralized credits of arbitrary volumes and values, to the detriment
+of a large part of the population present and future.
 
 .. plot::
 
@@ -1317,5 +1322,9 @@ part de la population présente et à venir.
     ys = [float(gold_price[i[0]][1]) / float(i[1][1]) for i in enumerate(m3_money_stock)]
     ax.plot(xs, ys)
     ax.grid(True)
-    fig.suptitle(u"Evolution du ratio « once d'or (\$) / Masse Monétaire M3 USA (\$) » de 1958 à 2010")
+    fig.suptitle(u"Evolution of the ratio \"gold ounce (\$) / M3 Money
+    Supply USA (\$)\" from 1958 to 2010. 
+    Sources: http://research.stlouisfed.org/fred2
+    http://datahub.io/dataset/gold-prices/resource/b9aae52b-b082-4159-b46f-7bb9c158d013
+    ")
     fig.autofmt_xdate()
